@@ -1,0 +1,6 @@
+@GalacticTourAgency_HostAddress = http://localhost:5058
+
+GET {{GalacticTourAgency_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
